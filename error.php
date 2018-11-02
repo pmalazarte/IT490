@@ -14,7 +14,7 @@ crossorigin="anonymous">
 <body>
 	<div class="form">
     	<h1>Error in Login/Register</h1>
-    	<a href="index.php"><button class="btn btn-secondary btn-lg btn-block"/>Home</button></a>
+    	<a href="index.html"><button class="btn btn-secondary btn-lg btn-block"/>Home</button></a>
     </div>
 
 </body>
