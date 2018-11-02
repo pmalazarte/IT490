@@ -17,7 +17,7 @@ if($response === false){
 }
 else{
 echo "Successfully created your account, please log in";
-header("location:index.html");
+header("location:registersuccess.php");
 }
 
 ?>
