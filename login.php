@@ -13,7 +13,7 @@ echo "doLogin: $response".PHP_EOL;
 
 if($response === false){
       echo "Login failed, please try again";
-      error_log("ERROR: Login failed, please try again "), 3, "/var/www/html/errorlog.log");
+      error_log("ERROR: Login failed, please try again ", 3, "/var/www/html/errorlog.log");
       header("location:error.php");
 }
 
